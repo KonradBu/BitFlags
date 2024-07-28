@@ -1,0 +1,12 @@
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\bin\Debug\net8.0\BitFlags.deps.json
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\bin\Debug\net8.0\BitFlags.dll
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\bin\Debug\net8.0\BitFlags.pdb
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\BitFlags.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\BitFlags.AssemblyInfoInputs.cache
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\BitFlags.AssemblyInfo.cs
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\BitFlags.csproj.CoreCompileInputs.cache
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\BitFlags.sourcelink.json
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\BitFlags.dll
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\refint\BitFlags.dll
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\BitFlags.pdb
+C:\Users\konra\Dropbox\Code\BitFlags\BitFlags\BitFlags\obj\Debug\net8.0\ref\BitFlags.dll
